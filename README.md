@@ -35,5 +35,17 @@ This project analyzes a real-world e-commerce dataset to extract business insigh
 - Monitor negative reviews and improve customer experience
 
 ## Files
+
+## Visual Insights
+
+### Sales Trend
+![Sales Trend](sales_trend.png)
+
+### Regional Revenue
+![Regional Revenue](regional_revenue.png)
+
+### Sum of Customer Spending
+![Sum of Customer Spending](sum_of_customer_spending.png)
+
 - Olist E-Commerce Project.pptx → Project presentation
 - analysis.sql → SQL queries used for analysiss.
